@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/webviewPage/static/css/main.073c9b0a.css",
+    "main.js": "/webviewPage/static/js/main.b5d215f4.js",
+    "index.html": "/webviewPage/index.html",
+    "main.073c9b0a.css.map": "/webviewPage/static/css/main.073c9b0a.css.map",
+    "main.b5d215f4.js.map": "/webviewPage/static/js/main.b5d215f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b5d215f4.js"
+  ]
+}
